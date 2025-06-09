@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badrinathm6" alt="badrinathm6" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Python, SQL**
 
-- 🌱 I’m currently learning **Django, Bootstrap, React, Spring boot, node.js**
+- 🌱 I’m currently learning **Django, Bootstrap, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BadrinathM6](https://github.com/BadrinathM6)
 
-- 💬 Ask me about **Django, Spring boot, node js**
+- 💬 Ask me about **Python, SQL, Web tech**
 
 - 📫 How to reach me **nathb6382@gmail.com**
 
